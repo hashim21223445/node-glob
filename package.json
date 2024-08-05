@@ -78,7 +78,7 @@
     "@types/node": "^20.11.30",
     "memfs": "^4.9.3",
     "mkdirp": "^3.0.1",
-    "prettier": "^3.2.5",
+    "prettier": "^3.3.3",
     "rimraf": "^5.0.7",
     "sync-content": "^1.0.2",
     "tap": "^20.0.3",
