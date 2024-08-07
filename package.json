@@ -75,7 +75,7 @@
     "path-scurry": "^2.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.30",
+    "@types/node": "^20.14.11",
     "memfs": "^4.9.3",
     "mkdirp": "^3.0.1",
     "prettier": "^3.3.3",
